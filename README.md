@@ -8,7 +8,7 @@ In Pycharm create new project. Then in pycharm terminal type:
 pip install tkinter pyautogui time pyinstaller
 ```
 
-Copy "cliker.py", "clicker.spec" and "icon.ico"
+Copy "cliker.py" and "icon.ico"
 In terminal type:
 ```
 pyinstaller --noconsole -F -i "C:\Users\$USER\PycharmProjects\clicker\icon.ico" cIiker.py
