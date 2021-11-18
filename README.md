@@ -1,4 +1,4 @@
-# Foss_cliker
+# Foss_clicker
 
 Hi!
 This is a simple python clicker simulating "Left Ctrl" click. By the way it is my first program I made and publish here.  Thank you.
